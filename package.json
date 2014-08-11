@@ -4,6 +4,7 @@
   "description": "Jacco website",
   "main": "src/index.js",
   "scripts": {
+    "start": "node .",
     "test": "mocha"
   },
   "repository": {
