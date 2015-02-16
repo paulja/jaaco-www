@@ -44,6 +44,22 @@ a:hover {
   color: #2C8937;
 }
 
+section ul {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 560px;
+
+  padding-top: 3em;
+  list-style: none;
+}
+
+section ul li {
+  display: inline;
+  margin-right: 1em;
+  float:right;
+}
+
 footer {
   font-family: sans-serif;
   font-size: 0.6em;
