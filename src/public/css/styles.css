@@ -44,6 +44,10 @@ a:hover {
   color: #2C8937;
 }
 
+section h2 {
+  display: none;
+}
+
 section ul {
   display: block;
   margin-left: auto;
