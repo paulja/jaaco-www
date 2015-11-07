@@ -1,0 +1,9 @@
+# folders
+docs/
+node_modules/
+test/
+
+# files
+Gruntfile.js
+LICENSE
+README.md
