@@ -1,6 +1,6 @@
 {
   "name": "jacco-www",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Jacco website",
   "main": "src/index.js",
   "scripts": {
