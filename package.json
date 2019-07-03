@@ -1,6 +1,6 @@
 {
   "name": "jacco-www",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Jacco website",
   "main": "src/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "url": "git@github.com:paulja/jaaco-www.git"
   },
   "author": "Paul Jackson <pjackson@gmail.com>",
-  "license": "Copyright 2014 Paul Jackson. All rights reserved.",
+  "license": "Copyright 2019 Paul Jackson. All rights reserved.",
   "bugs": {
     "url": "https://github.com/paulja/jaaco-www/issues"
   },
